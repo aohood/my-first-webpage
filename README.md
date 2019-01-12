@@ -1,11 +1,11 @@
 # _My First Web Page_
 
-#### _This page is the first page I make.
-#### By Aya
+#### _This page is the first page I make._
+#### **By Aya**
 
 ## I'm using this page to show that I'm learning some coding and trying to use it to display some information about myself
 
-_I'm showing here what kind of coding I'm learning and displaying some more information like my favorite persons and friends, my favorite people, my blog and more. :) _
+_I'm showing here what kind of coding I'm learning and displaying some more information like my favorite persons and friends, my favorite people, my blog and more. :)_
 
 
 ## Setup/Instolation Requirments
