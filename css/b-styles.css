@@ -1,0 +1,15 @@
+h1{
+  color: red;
+  text-align: center;
+}
+
+h2{
+  font-size: 25px
+  font-family: serif ;
+
+}
+p{
+  color: purple;
+  text-align: left;
+  font-size: 22px;
+}
